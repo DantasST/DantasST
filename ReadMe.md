@@ -1,5 +1,8 @@
 # 💫 About Me:
-💻​ Sou estudante de Análise e Desenvolvimento de Sistemas<br>🤝 Estou a procura de uma oportunidade na área<br>
+💻​ Sou estudante de Análise e Desenvolvimento de Sistemas<br>
+🤝 Estou a procura de uma oportunidade na área da Tecnologia<br>
+⚙️ Técnica em Eletrônica e Mecatronica formada pelo SENAI<br>
+
 
 
 ## 🌐 Socials:
