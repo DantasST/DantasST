@@ -1,5 +1,6 @@
 # 💫 Olá! Sou a Suelen Dantas
 💻​ Estudante de Análise e Desenvolvimento de Sistemas<br>
+🔁 Transição de Carreira para QA Enginner<br>
 🤝 À procura de uma oportunidade na área da Tecnologia<br>
 ⚙️ Técnica em Eletrônica e Mecatronica formada pelo SENAI<br>
 
